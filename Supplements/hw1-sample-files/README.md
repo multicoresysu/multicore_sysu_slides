@@ -4,12 +4,12 @@
 
 - **hw1_omp.c**: Code your own OpenMP program.
 
-- **hw1-sample-output-s-2.txt**: Sample output of homework-01 when $s=2$
+- **hw1-sample-output-s-2.txt**: Sample output of homework-01 when s=2​
 
 - **Makefile**: Run make to compile your program
 
   ```bash
-  # clean first
+  # Clean first
   make clean
   
   # Compile CUDA and OpenMP files
