@@ -44,3 +44,23 @@
    cd	# /home/jovyan/
    ./gcc6/bin/gcc -v		# 6.5.0
    ```
+
+7. **设置环境变量**
+
+   ```bash
+   touch bashrc
+   
+   # Edit "bashrc" in jupyter, you can't use vi or vim via Terminal
+   # Add following lines into "bashrc" and save (you can also specify your own gcc path):
+   export PATH="/home/jovyan/gcc6/bin:/home/jovyan/gcc6/lib64:$PATH"
+   export LD_LIBRARY_PATH="/home/jovyan/gcc6/lib:$LD_LIBRARY_PATH"
+   
+   # In Terminal
+   mv bashrc .bashrc
+   source .bashrc
+   
+   # Check if it works
+   gcc -v	# 6.5.0
+   ```
+
+   

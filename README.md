@@ -8,6 +8,7 @@ More supplementary files about assignments will also be post here.
 
 ## News!
 
-- 2019-03-26：**Add a tutorial for compiling your own GCC-6.5.0**
-- 2019-03-26：**Add a sample output file (s=2) for homework-01**
+- 2019-03-27: **Add homework-01 sample programs and files to Supplements directory**
+- 2019-03-26: **Add a tutorial for compiling your own GCC-6.5.0**
+- 2019-03-26: **Add a sample output file (s=2) for homework-01**
 
