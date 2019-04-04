@@ -10,6 +10,8 @@ More supplementary files about assignments will also be post here.
 
 - 2019-04-04: **The output time of the program will not be included in the performance evaluation section.**
 
+  
+
 ## News!
 
 - 2019-04-03: **Add slides CUDA-05.pdf and CUDA-06.pdf and update CUDA-04.pdf**
