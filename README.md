@@ -2,13 +2,13 @@
 
 Course sildes will be uploaded to this repo.
 
-More supplementary files about assignments will also be post here.
+Supplementary materials for assignments will also be post here.
 
 
 
 ## Notification!
 
-- 2019-04-04: **The output time of the program will not be included in the performance evaluation section.**
+- 2019-04-04: **「For Assignments」The output time of the program will not be included in the performance evaluation section.**
 
   
 
