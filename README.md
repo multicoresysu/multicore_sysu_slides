@@ -15,7 +15,8 @@ Supplementary materials for assignments will also be post here.
 
 ## News!
 
-- 2019-05-03: **Add slides CUDA-09.pdf and update CUDA-08.pdf**
+- 2019-05-07: **Add homework-02 sample files. Add <code>cuda_output.txt</code> as a sample output file (s=2). Add <code>test.sh</code> as a test script. Other assignments standard is also post in <code>多核程序设计作业标准.md</code>**
+- 2019-05-03: Add slides CUDA-09.pdf and update CUDA-08.pdf
 - 2019-04-17: Add slides CUDA-08.pdf
 - 2019-04-14: Add slides CUDA-07.pdf
 - 2019-04-03: Add slides CUDA-05.pdf and CUDA-06.pdf and update CUDA-04.pdf
