@@ -5,7 +5,7 @@ import math
 
 def Gauss(s):
 	sf=float(s)
-	return np.array([[( 1 / ( sf*math.sqrt( 2*math.pi))) * math.exp( -( float(x*x + y*y)) / ( 2*sf*sf)) for x in range(-s,s+1)] for y in range(-s,s+1)])
+	return np.array([[( 1 / ( sf*math.sqrt( 2*math.pi))) * math.exp( -( float(x*x + y*y)) / ( 2*sf*sf)) for x in range(-3*s,3*s+1)] for y in range(-3*s,3*s+1)])
 
 def MatToBinary(m):
 	h,w=m.shape
@@ -28,5 +28,5 @@ if __name__=='__main__':
 		fp.write('%d'%n.shape[1])
 		fp.write('\n')
 		for d in n.ravel():
-			fp.write('%02f'%d)
+			fp.write('%0.2f'%d)
 			fp.write(' ')
