@@ -14,6 +14,7 @@ Supplementary materials for assignments will also be post here.
   
 
 ## News!
+- 2019-05-21: **Upload CUDA-11.pdf**
 - 2019-05-21: **Update  <code>homework-01-final-grade.xlsx</code> with comments**
 - 2019-05-20: **Upload homework2.py. It shows how the answer is worked out.**
 - 2019-05-15: Upload CUDA-HW-2.pdf. Fix some mistakes in CUDA-10.pdf
