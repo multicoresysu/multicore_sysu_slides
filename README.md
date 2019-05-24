@@ -14,6 +14,8 @@ Supplementary materials for assignments will also be post here.
   
 
 ## News!
+- 2019-05-21: upload **the standard output data file 'performance_standard.txt' we use to test performance**
+- 2019-05-21: upload **the input data file 'pdata.bin' we use to test performance**
 - 2019-05-21: **Upload CUDA-11.pdf**
 - 2019-05-21: **Update  <code>homework-01-final-grade.xlsx</code> with comments**
 - 2019-05-20: **Upload homework2.py. It shows how the answer is worked out.**
