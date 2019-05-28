@@ -14,6 +14,7 @@ Supplementary materials for assignments will also be post here.
   
 
 ## News!
+- 2019-05-28: **Upload CUDA-12.pdf**
 - 2019-05-21: upload **the standard output data file 'performance_standard.txt' we use to test performance**
 - 2019-05-21: upload **the input data file 'pdata.bin' we use to test performance**
 - 2019-05-21: **Upload CUDA-11.pdf**
