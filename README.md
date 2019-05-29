@@ -14,12 +14,13 @@ Supplementary materials for assignments will also be post here.
   
 
 ## News!
+
 - 2019-05-28: **Upload CUDA-12.pdf**
-- 2019-05-21: upload **the standard output data file 'performance_standard.txt' we use to test performance**
-- 2019-05-21: upload **the input data file 'pdata.bin' we use to test performance**
-- 2019-05-21: **Upload CUDA-11.pdf**
-- 2019-05-21: **Update  <code>homework-01-final-grade.xlsx</code> with comments**
-- 2019-05-20: **Upload homework2.py. It shows how the answer is worked out.**
+- 2019-05-21: upload the standard output data file 'performance_standard.txt' we use to test performance
+- 2019-05-21: upload the input data file 'pdata.bin' we use to test performance
+- 2019-05-21: Upload CUDA-11.pdf
+- 2019-05-21: Update  <code>homework-01-final-grade.xlsx</code> with comments
+- 2019-05-20: Upload homework2.py. It shows how the answer is worked out.
 - 2019-05-15: Upload CUDA-HW-2.pdf. Fix some mistakes in CUDA-10.pdf
 - 2019-05-15: Upload <code>homework-01-final-grade.xlsx</code> into Supplements. Update <code>cuda_output.txt</code> to match convolution result (s=1), you can validate your program with the given output.
 - 2019-05-14: Update CUDA-10.pdf
