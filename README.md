@@ -8,14 +8,17 @@ Supplementary materials for assignments will also be post here.
 
 ## Notification!
 
+- 2019-06-04: **「For Class」Tonight's class will be cancelled due to thunderstorm rain. Moreover, the mid-term examination papers will be handed out next week. **
+
 - 2019-05-03: 「For Class」An offline question and answer class will be held on May 7th(Tuesday). Any question about assignments and the final project can be asked.
+
 - 2019-04-04: 「For Assignments」The output time of the program will not be included in the performance evaluation section.
 
   
 
 ## News!
 
-- 2019-05-28: **Upload CUDA-12.pdf**
+- 2019-05-28: Upload CUDA-12.pdf
 - 2019-05-21: upload the standard output data file 'performance_standard.txt' we use to test performance
 - 2019-05-21: upload the input data file 'pdata.bin' we use to test performance
 - 2019-05-21: Upload CUDA-11.pdf
