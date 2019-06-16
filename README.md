@@ -8,7 +8,7 @@ Supplementary materials for assignments will also be post here.
 
 ## Notification!
 
-- 2019-06-04: **「For Class」Tonight's class will be cancelled due to thunderstorm rain. Moreover, the mid-term examination papers will be handed out next week. **
+- 2019-06-04: 「For Class」Tonight's class will be cancelled due to thunderstorm rain. Moreover, the mid-term examination papers will be handed out next week. 
 
 - 2019-05-03: 「For Class」An offline question and answer class will be held on May 7th(Tuesday). Any question about assignments and the final project can be asked.
 
@@ -18,6 +18,7 @@ Supplementary materials for assignments will also be post here.
 
 ## News!
 
+- 2019-06-16: **Upload `homework-02-final-grade.xlsx` and `final-project-list&order.xlsx`. Update `homework-01-final-grade.xlsx`.**
 - 2019-05-28: Upload CUDA-12.pdf
 - 2019-05-21: upload the standard output data file 'performance_standard.txt' we use to test performance
 - 2019-05-21: upload the input data file 'pdata.bin' we use to test performance
