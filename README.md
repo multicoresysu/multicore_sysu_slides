@@ -18,7 +18,8 @@ Supplementary materials for assignments will also be post here.
 
 ## News!
 
-- 2019-06-16: **Upload `homework-02-final-grade.xlsx` and `final-project-list&order.xlsx`. Update `homework-01-final-grade.xlsx`.**
+- 2019-06-20: **Upload homework-03 samples files in `./Supplements/hw3-sample-files` and standard `homework-03-standard.md`**
+- 2019-06-16: Upload `homework-02-final-grade.xlsx` and `final-project-list&order.xlsx`. Update `homework-01-final-grade.xlsx`.
 - 2019-05-28: Upload CUDA-12.pdf
 - 2019-05-21: upload the standard output data file 'performance_standard.txt' we use to test performance
 - 2019-05-21: upload the input data file 'pdata.bin' we use to test performance
