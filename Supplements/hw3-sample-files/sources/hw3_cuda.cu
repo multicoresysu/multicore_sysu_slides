@@ -40,11 +40,11 @@ void WriteFile(const char *szFile, UINT data[], UINT len)
 int main(int argc, char *argv[])
 {
 	UINT length;
-	if (argc < 3)
-		return 0;
+	if (argc != 2)
+		return 1;
 	length = ReadFile(argv[1], buffer);
 	//sorting code
 	//....
-	WriteFile(argv[2], buffer, length);
+	WriteFile("output.bin", buffer, length);
 	return 0;
 }
