@@ -18,7 +18,8 @@ Supplementary materials for assignments will also be post here.
 
 ## News!
 
-- 2019-07-13: **Upload `homework-03-final-grade.xlsx`,  update `homework-01-final-grade.xlsx` and `homework-02-final-grade.xlsx`**
+- 2019-07-15: **Update `homework-03-final-grade.xlsx`, upload evaluation code in `Supplements/hw3-evaluation-codes`, please see the `README.md` to evaluation your program.**
+- 2019-07-13: Upload `homework-03-final-grade.xlsx`,  update `homework-01-final-grade.xlsx` and `homework-02-final-grade.xlsx`
 - 2019-06-20: Upload homework-03 samples files in `./Supplements/hw3-sample-files` and standard `homework-03-standard.md`
 - 2019-06-16: Upload `homework-02-final-grade.xlsx` and `final-project-list&order.xlsx`. Update `homework-01-final-grade.xlsx`.
 - 2019-05-28: Upload CUDA-12.pdf
